@@ -1,4 +1,3 @@
-// add solution here
 function theBeatlesPlay(musicians, instruments){
   var array = [];
   
@@ -7,4 +6,7 @@ function theBeatlesPlay(musicians, instruments){
   }
   return array;
 }
-function 
+
+function  johnLennonFacts(facts){
+  while ()
+}
