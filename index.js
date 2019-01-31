@@ -2,5 +2,5 @@
 function theBeatlesPlay(musicians, instruments){
   var emptyarray = [];
   
-  for ()
+  for (musicians ++, )
 }
